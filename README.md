@@ -39,5 +39,5 @@ git commit -m "<COMMIT_MSG>"
 
 # Push repository
 ```
-git push
+git push --set-upstream origin master
 ```

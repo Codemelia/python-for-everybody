@@ -7,9 +7,15 @@
 # < 0.6 F
 # If the user enters a value out of range, print a suitable error message and exit. For the test, enter a score of 0.85.
 
+# take score input by user
 score_input = input("Enter Score: ")
+
+# convert string to float value
 score = float(score_input)
 
+# based on score thresholds:
+## print error if outside thresholds
+## print reflected grade if within thresholds
 if score < 0.0 or score > 1.0:
     print("Error: score is out of range")
 else:
