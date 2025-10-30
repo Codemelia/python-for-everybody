@@ -1,5 +1,5 @@
 # python-for-everybody
-Exercises attempted throughout the PY4E course by UOM on Coursera
+PY4E exercises by UOM on Coursera
 
 ## git commands
 # Initialise repository
